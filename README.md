@@ -6,3 +6,4 @@ finales de todos los de un salón de clase. Determinar y mostrar el promedio de 
 
 ## Etapa 3. Diseño de la solución 
 Diagrama de la clase 
+![](https://github.com/rulos12/-T3A1--Ejercicio-01/blob/main/T3A1.png)
