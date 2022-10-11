@@ -29,3 +29,4 @@ finales de todos los de un salón de clase. Determinar y mostrar el promedio de 
 Diagrama de la clase 
 ![](https://github.com/rulos12/-T3A1--Ejercicio-01/blob/main/T3A1.png)
 ## Etapa 4.Desarrollo de la solución
+[T3A1.zip](https://github.com/rulos12/-T3A1--Ejercicio-01/files/9750155/T3A1.zip)
