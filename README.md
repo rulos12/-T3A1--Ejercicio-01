@@ -10,7 +10,7 @@ finales de todos los de un salón de clase. Determinar y mostrar el promedio de 
 -Asignaturas: calificaciones, nombre de la asignatura
 
 2.Proceso:
--Calcular el promedio final de las calificaciones
+-Calcular el promedio final de las calificaciones  
 -promedio = sumaDeCalificaciones / totalDeCalificaciones
 
 3.salida:
