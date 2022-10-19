@@ -15,7 +15,7 @@ finales de todos los de un salón de clase. Determinar y mostrar el promedio de 
 
 3. salida:
 - Resumen de los datos del estudiante con su promedio
- +__------------------------------------------------__+
+ +---------------------------------------------------+
  |  Estudiante: EDGAR DEGANTE AGUILAR                |
  |  Grupo: 1A    Carrera: INGENIERÍA INFORMÁTICA     |
  |                                                   |
