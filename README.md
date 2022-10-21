@@ -15,6 +15,7 @@ finales de todos los de un salón de clase. Determinar y mostrar el promedio de 
 
 3. salida:
 - Resumen de los datos del estudiante con su promedio
+~~~
  +---------------------------------------------------+
  |  Estudiante: EDGAR DEGANTE AGUILAR                |
  |  Grupo: 1A    Carrera: INGENIERÍA INFORMÁTICA     |
@@ -25,6 +26,7 @@ finales de todos los de un salón de clase. Determinar y mostrar el promedio de 
  +---------------------------------------------------+
  |     Promedio:                           80        |
  + --------------------------------------------------+
+~~~
 ## Etapa 3. Diseño de la solución 
 Diagrama de la clase 
 ![](https://github.com/rulos12/-T3A1--Ejercicio-01/blob/main/T3A1.png)
